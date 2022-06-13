@@ -8,4 +8,7 @@ public class Snake {
   public void vite(){
     System.out.println("Snake vite~!"); 
   }
+  public void eat(){
+    System.out.println("Snake eat~!"); 
+  }
 }
