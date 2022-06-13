@@ -5,5 +5,7 @@ public class Snake {
   public void run(){
     System.out.println("Sank run~!");
   }
-
+  public void vite(){
+    System.out.println("Snake vite~!"); 
+  }
 }
